@@ -1,0 +1,29 @@
+# Dependencies
+/node_modules
+
+# Coverage
+coverage
+
+# Transpiled files
+/build
+/dist
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Optional npm cache directory
+.npm
+.cache
+
+# Misc
+.DS_Store
+
+# Logs
+logs
+*.log
+yarn*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
